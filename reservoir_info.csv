@@ -1,0 +1,6 @@
+Reservoir Name,Initial Reservoir Pressure (PSI),Bubble Point Pressure (PSI),Current Average Reservoir Pressure (PSI),Solution Gas-Oil-Ratio (SCF/BBL),Formation Volume Factor (RB/STB)
+ACHI,"3,500","3,300","2,700",800,1.20
+KEMA,"4,200","4,000","3,900",600,1.45
+MAKO,"3,500","3,500","3,000",500,1.15
+DEPU,"2,800","2,800","2,400","1,200",1.37
+JANI,"4,500","4,300","4,200","1,000",1.30
