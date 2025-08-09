@@ -1,0 +1,21 @@
+Well,Reservoir Name,Reservoir Type,Well Type,Production Type,Formation GOR Trend,Watercut Trend,Oil Productivity Index
+1,JANI,SATURATED,GL,Steady,bSolGOR,incr,combo
+2,KEMA,SATURATED,GL,Steady,bSolGOR,combo,incr
+3,ACHI,SATURATED,GL,Steady,bSolGOR,incr,combo
+4,DEOU,SATURATED,GL,Steady,aSolGOR,combo,combo
+5,ACHI,SATURATED,NF,Steady,aSolGOR,combo,combo
+6,KEMA,SATURATED,NF,UnSteady,aSolGOR,incr,combo
+7,KEMA,SATURATED,GL,Steady,aSolGOR,incr,combo
+8,ACHI,SATURATED,GL,Steady,bSolGOR,incr,combo
+9,DEPU,SATURATED,GL,Steady,aSolGOR,combo,combo
+10,JANI,SATURATED,GL,Steady,aSolGOR,incr,incr
+11,ACHI,SATURATED,GL,Steady,bSolGOR,incr,combo
+12,DEPU,SATURATED,NF,Steady,aSolGOR,incr,combo
+13,DEPU,SATURATED,NF,Steady,bSolGOR,incr,combo
+14,ACHI,SATURATED,NF,Steady,bSolGOR,incr,incr
+15,JANI,SATURATED,NF,Steady,aSolGOR,combo,combo
+16,KEMA,SATURATED,NF,Steady,bSolGOR,incr,combo
+17,DEPU,SATURATED,GL,Steady,aSolGOR,combo,combo
+18,ACHI,SATURATED,GL,Steady,bSolGOR,incr,combo
+19,JANI,SATURATED,NF,Steady,bSolGOR,incr,combo
+20,ACHI,SATURATED,GL,Steady,bSolGOR,incr,combo
