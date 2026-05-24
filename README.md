@@ -351,15 +351,6 @@ The project also highlights the growing role of digital transformation and intel
 
 Petroleum Engineer | Machine Learning Researcher | Computer Vision Developer
 
-### Research Interests
-
-- Reservoir Engineering
-- Machine Learning for Energy Systems
-- Deep Learning
-- Computer Vision
-- AI for Petroleum Engineering
-- Digital Oilfield Technologies
-- Multimodal
 
 GitHub: https://github.com/MSunusi
 
