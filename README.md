@@ -347,7 +347,7 @@ The project also highlights the growing role of digital transformation and intel
 
 # Author
 
-## Sunusi Muhammad Ibrahim
+## Sunusi Ibrahim Muhammad
 
 Petroleum Engineer | Machine Learning Researcher | Computer Vision Developer
 
@@ -359,6 +359,7 @@ Petroleum Engineer | Machine Learning Researcher | Computer Vision Developer
 - Computer Vision
 - AI for Petroleum Engineering
 - Digital Oilfield Technologies
+- Multimodal
 
 GitHub: https://github.com/MSunusi
 
@@ -403,4 +404,4 @@ If you use this project in your research or academic work, kindly cite:
 
 # Acknowledgements
 
-Special appreciation to the open-source community and the petroleum engineering and AI communities advancing intelligent energy systems.
+Special appreciation to the EJAZTECH.AI team,  open-source community and the petroleum engineering and AI communities advancing intelligent energy systems.
